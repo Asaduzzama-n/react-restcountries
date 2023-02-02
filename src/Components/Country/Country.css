@@ -1,0 +1,10 @@
+.country-container{
+    background-color: rgb(253, 253, 253);
+    border: 5px solid rgba(250, 109, 109, 0.249);
+    padding: 20px;
+}
+.country-container img{
+    height: 80px;
+    width: 120px;
+
+}
